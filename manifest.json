@@ -1,0 +1,23 @@
+{
+  "name": "Worm Eater",
+  "short_name": "WormEater",
+  "description": "Eat smaller sprites to grow your worm while avoiding larger ones",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1e32",
+  "theme_color": "#4a9bff",
+  "orientation": "any",
+  "icons": [
+    {
+       "src": "\/android-icon-192x192.png",
+       "sizes": "192x192",
+       "type": "image\/png",
+       "density": "4.0"
+    },
+    {
+        "src": "\/attentionWorm.png",
+        "sizes": "512x512",
+        "type": "image\/png"
+    }
+  ]
+}
